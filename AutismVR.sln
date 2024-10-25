@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meta.Voice.Samples.TTSVoices", "Meta.Voice.Samples.TTSVoices.csproj", "{a852e33a-7ab9-ec56-840b-19a7064db4cc}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{a3fc5aa5-f26b-233c-f82f-34f012a6dc99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a852e33a-7ab9-ec56-840b-19a7064db4cc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a852e33a-7ab9-ec56-840b-19a7064db4cc}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a3fc5aa5-f26b-233c-f82f-34f012a6dc99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a3fc5aa5-f26b-233c-f82f-34f012a6dc99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
